@@ -56,3 +56,5 @@ All of my music can be found on YouTube and some of what I consider "showcase wo
 - DBWBP (https://dbwbp.com/)
 - archive.org (https://archive.org)
 - nnty.fun (https://nnty.fun/)
+
+All of my music modules can be found [here](https://github.com/furmilion/furnace-song-dump).
