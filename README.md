@@ -39,3 +39,20 @@ Small utility repo: [furmilion/stuffs](https://github.com/furmilion/stuffs)
 Friends:
 - г-н Сатурн (aka [Mr. Saturn](https://github.com/MrSaturnBoing)) ([@mr.saturn_boing](https://www.youtube.com/@mr.saturn_boing))
 - г-н Ботарь (aka Molkirill) ([@Molkirill]([https://](https://www.youtube.com/@Molkirill)))
+
+All of my music can be found on YouTube and some of what I consider "showcase worthy" is on Bandcamp.
+
+## My music arsenal
+### Trackers
+- Furnace Tracker ([tildearrow/furnace](https://github.com/tildearrow/furnace))
+- Schism Tracher ([schismtracker/schismtracker](https://github.com/schismtracker/schismtracker))
+- Genuine DOS Impulse Tracker v2.14
+- FastTracker ][ Clone ([8bitbubsy/ft2-clone](https://github.com/8bitbubsy/ft2-clone))
+- Genuine DOS FastTracker ][
+- Renoise (https://www.renoise.com/)
+- MadTracker 2 (https://www.madtracker.org/)
+
+### Samples
+- DBWBP (https://dbwbp.com/)
+- archive.org (https://archive.org)
+- nnty.fun (https://nnty.fun/)
