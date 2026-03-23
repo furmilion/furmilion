@@ -35,3 +35,7 @@ If an ccount under my name is on some other platform, it is likely not me (like 
 Current ongoing project: [Smash Hit Sega Genesis Cover Project](https://github.com/furmilion/smash-hit-sgen-cover-project) (with [Mr. Saturn](https://github.com/MrSaturnBoing))
 
 Small utility repo: [furmilion/stuffs](https://github.com/furmilion/stuffs)
+
+Friends:
+- г-н Сатурн (aka [Mr. Saturn](https://github.com/MrSaturnBoing)) ([@mr.saturn_boing](https://www.youtube.com/@mr.saturn_boing))
+- г-н Ботарь (aka Molkirill) ([@Molkirill]([https://](https://www.youtube.com/@Molkirill)))
