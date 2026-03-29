@@ -30,7 +30,9 @@ I have:
 
 On any of which you can contact me for whatever reason.
 
-If an ccount under my name is on some other platform, it is likely not me (like [Apple Music](https://music.apple.com/uz/artist/furmilion/1849928906))
+If an account under my name is on some other platform, it is likely not me (like [Apple Music](https://music.apple.com/uz/artist/furmilion/1849928906))
+
+Around the internet, you can see me going under either of these nicknames: `Furmilion`/`furmilion`, `smorking mike` or `mental asylum mike`.
 
 Current ongoing project: [Smash Hit Sega Genesis Cover Project](https://github.com/furmilion/smash-hit-sgen-cover-project) (with [Mr. Saturn](https://github.com/MrSaturnBoing))
 
