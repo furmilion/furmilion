@@ -27,6 +27,7 @@ I have:
 - Bluesky ([furmilion.bsky.app](https://bsky.app/profile/furmilion.bsky.social))
 - Bandcamp ([furmilion.bandcamp.com](https://furmilion.bandcamp.com/))
 - Battle of the Bits profile ([Furmilion](https://battleofthebits.com/barracks/Profile/Furmilion/))
+- Chiptine Cafe forum ([Furmilion](https://chiptune.cafe/memberlist.php?mode=viewprofile&u=76))
 
 On any of which you can contact me for whatever reason.
 
