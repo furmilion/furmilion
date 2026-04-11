@@ -55,7 +55,7 @@ All of my music can be found on YouTube and some of what I consider "showcase wo
 - MadTracker 2 (https://www.madtracker.org/)
 
 ### Samples
-- DBWBP (https://dbwbp.com/)
+- DBWBP for synthesizer sample ROM/EPROMs (https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps)
 - archive.org (https://archive.org)
 - nnty.fun (https://nnty.fun/)
 
