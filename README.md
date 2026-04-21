@@ -60,4 +60,4 @@ All of my music can be found on YouTube and some of what I consider "showcase wo
 - archive.org (https://archive.org)
 - nnty.fun (https://nnty.fun/)
 
-All of my music modules can be found [here](https://github.com/furmilion/furnace-song-dump).
+All of Furnace modules can be found [here](https://github.com/furmilion/furnace-song-dump).
