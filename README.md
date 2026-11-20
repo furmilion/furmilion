@@ -1,20 +1,5 @@
 ## Hi there, Furmilion speaking
 
-<!--
-**furmilion/furmilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a russian chiptuner and sort of programmer guy, making chiptune and tracker music.
 I have:
 - YouTube ([@furmilion](https://youtube.com/@furmilion))
@@ -54,10 +39,32 @@ All of my music can be found on YouTube and some of what I consider "showcase wo
 - Genuine DOS FastTracker ][
 - Renoise (https://www.renoise.com/)
 - MadTracker 2 (https://www.madtracker.org/)
-
+### Sequencers
+- Domino MIDI Editor
+- Korg M01 Music Workstation (Nintendo DS) (to be used)
+- Korg M01D Music Workstation (Nintendo 3DS) (to be used)
+### DAWs and the like
+- FL Studio (rarely)
+- Kirastudio (rarely)
+### Sound sources
+- 88emu by The Usual Suspects: SC family, MT-32, CM32/64
+- Nuked SC-55 by NukeYKT (fork by jcmoyer): SC-55, JV-880
+- Osirus, OsTIrus by The Usual Suspects: Access Virus A/B/C, Access Virus TI/TI2/Snow
+- Vavra by The Usual Suspects: Waldorf microQ
+- Xenia by The Usual Suspects: Waldorf Microwave II/XT
+- Nodal Red 2x by The Usual Suspects: Clavia Nord Lead/Rack 2x
+- JE-8086 by The Usual Suspects: JP-8000
+- S-MU2000 by tarboh and MAME team: Yamaha MU2000/EX
+- MAME by MAME team: Yamaha MU5/10/15/20/50/80/90/100
+- S-YXG50 VST by Yamaha: DB50XG daughterboard;
+- Virtual Sound Canvas (not to be confused with Sound Canvas VA) by Roland: SC-55, SC-88 & SC-88pro
 ### Samples
 - DBWBP for synthesizer sample ROM/EPROMs (https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps)
 - archive.org (https://archive.org)
 - nnty.fun (https://nnty.fun/)
 
 All of Furnace modules can be found [here](https://github.com/furmilion/furnace-song-dump).
+
+All plugins by The Usual Suspects are available [here](https://github.com/dsp56300/gearmulator/releases).
+
+Used fork of Nuked SC-55 is [here](https://github.com/jcmoyer/Nuked-SC55/).
