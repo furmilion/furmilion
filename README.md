@@ -41,8 +41,8 @@ All of my music can be found on YouTube and some of what I consider "showcase wo
 - MadTracker 2 (https://www.madtracker.org/)
 ### Sequencers
 - Domino MIDI Editor
-- Korg M01 Music Workstation (Nintendo DS) (to be used)
-- Korg M01D Music Workstation (Nintendo 3DS) (to be used)
+- Korg M01 Music Workstation (Nintendo DS) (yet to be used)
+- Korg M01D Music Workstation (Nintendo 3DS) (yet to be used)
 ### DAWs and the like
 - FL Studio (rarely)
 - Kirastudio (rarely)
